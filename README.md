@@ -37,7 +37,7 @@ To implement a rule-based equity trading strategy using real-time price data, fo
 |--------|-------|
 | Anomaly Detection Accuracy | **93%** |
 | Trend Forecasting Precision | **90%** |
-| Sharpe Ratio | **(Calculated from daily returns)** |
+| Sharpe Ratio | **0.047** |
 
 The strategy exhibits strong alignment between signal triggers and market movement, resulting in a high signal-to-noise ratio and promising profitability potential.
 
@@ -68,5 +68,3 @@ Email: gsaksham.iitkgp@gmail.com
 [LinkedIn](https://www.linkedin.com/in/saksham-gupta23) • [GitHub](https://github.com/saksham-gupta23)
 
 ---
-
-> 📁 _This project was submitted as part of my application for the Quant Developer & Risk Analyst role at 2 Cents Capital._
